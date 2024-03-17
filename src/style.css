@@ -174,7 +174,7 @@ img.mugshot {
 }
 
 .social.email:before {
-    background: url("https://www.iconfinder.com/icons/2199082/download/png/512") center no-repeat;
+    background: url("email.png") center no-repeat;
 }
 
 .social.twitter:before {
