@@ -174,7 +174,7 @@ img.mugshot {
 }
 
 .social.email:before {
-    background: url("email.png") center no-repeat;
+    background: url("./email.png") center no-repeat;
 }
 
 .social.twitter:before {
